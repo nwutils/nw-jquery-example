@@ -1,0 +1,13 @@
+{
+  "name": "your-app-name",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw ."
+  },
+  "devDependencies": {
+    "nw": "sdk"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
